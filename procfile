@@ -1,1 +1,0 @@
-web: gunicorn DojoDjango.wsgi --log-file -
